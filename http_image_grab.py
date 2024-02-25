@@ -7,7 +7,7 @@ import requests
 metadata = {
     'name': 'ImageScraper',
     'description': 'Python Image Scraper Module for Metasploit',
-    'authors': ['Your Name'],
+    'authors': ['Rohan Jose'],
     'date': '2024-02-14',
     'license': 'MSF_LICENSE',
     'type': 'auxiliary',
